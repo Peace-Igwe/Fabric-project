@@ -8,7 +8,7 @@
 
 ## 🧩 Project Overview
 
-The bank needed to unify customer data across multiple systems—CRM (Salesforce), ERP (SAP), mobile (Firebase), and core banking (Finacle)—into a **Single Customer View (SCV)**. The goal:  
+The bank needed to unify customer data across multiple systems—CRM (Salesforce), ERP (SAP), mobile (Firebase), and core banking (Finacle), into a **Single Customer View (SCV)**. The goal:  
 ✔️ Empower data-driven decisions  
 ✔️ Simplify analytics workflows  
 ✔️ Enable **real-time insights**  
